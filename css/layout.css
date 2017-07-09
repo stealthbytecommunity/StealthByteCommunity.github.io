@@ -98,3 +98,8 @@ div#margin-infobar {
 	text-align: center;
 	background: #8d9196;
 }
+
+.simplify {
+	display: inline-block;
+	position: relative;
+}
